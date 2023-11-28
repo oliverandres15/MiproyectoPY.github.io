@@ -1,4 +1,4 @@
-<center><span style="font-size: 40px; color: #000080;"><b>PORTAFOLIO</b></span></center>
+<center><span style="font-size: 40px; color: #000080;"><b>NAPO</b></span></center>
 
 <center><span style="font-size: 20px;"><b>PROYECTOS DE INGENIERÍA ESTRUCTURAL</b></span></center>
 
@@ -20,48 +20,34 @@
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
 
-## **Automatización del Análisis Sísmico - E030**
+## **Automatización del Análisis Sísmico - NSR10**
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
+[instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fconsultorias.napo%3Ffbclid%3DIwAR2hEjeL2u5uaoaTnxbVSZzBFumTlyCp7ZsrM01Dx8PKFEaEmVwPpNAlz_8&h=AT2G9uPbyvHHl_Xd4mhvk6TwoJHhdivw2suhBnFkNF-FWFKiQ3NLUyipk3Nigoo62znNLx0IF4P7k18GvnuhILBOwng68LbrfNDrqoBawnA2aXYJlu_akWOCMK25HnNnzVk8)
 
 
-Extracción de datos de un modelo de ETABS para el análisis sísmico según la Normativa Peruana E.030 y generación automática de la memoria de cálculo.
+Extracción de datos de un modelo de ETABS para el análisis sísmico según la NSR10 y generación automática de la memoria de cálculo.
 
 Generación de una plantilla de trabajo en Etabs a través de código Python. Configuración personalizada de materiales, patrones de cargas, combinaciones de cargas, unidades de trabajo, nombre de secciones, etc.
 
 
-<div style="text-align: center;">
-  <div style="display: inline-block;">
-    <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API CSI ETABS | Python</span>
-  </div>
-</div>
-
-
 <p align="center">
-<img src="assets\img\AAS.gif" width="100%" height="100%">
+<img src="assets\img\IMG1.png" width="100%" height="100%">
 </p>
 
 
 ## Modelo Paramétrico de Edificaciones 
-Generación de edificaciones paramétricas utilizando la API CSI Etabs y Python, otorgando al usuario una gran flexibilidad a la hora de cambiar los parámetros geométricos, mecánicos y solicitaciones de la estructura.
+Generación de puentes paramétricas utilizando la API CSI Etabs y Python, otorgando al usuario una gran flexibilidad a la hora de cambiar los parámetros geométricos, mecánicos y solicitaciones de la estructura.
 
 <dd>Con enfoques al diseño computacional y generativo</dd>
 
 <br>
 
 
-<div style="text-align: center;">
-  <div style="display: inline-block;">
-    <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | API CSI ETABS | Python</span>
-  </div>
-</div>
 
 <p align="center">
-<img src="assets\img\edif param.gif" width="100%" height="100%">
-<img src="assets\img\Nave Industrial.gif" width="50%" height="100%">
+<img src="assets\img\IMG2.png" width="100%" height="100%">
+<img src="assets\img\IMG3.png" width="50%" height="100%">
 </p>
 
 
@@ -70,15 +56,9 @@ Generación de edificaciones paramétricas utilizando la API CSI Etabs y Python,
 Lectura de una Base de Datos en cualquier tipo de formato (Excel, csv, txt, etc.) y generación de gráficos de forma automática, en la presentación que se muestra, utilizando las librerías de Python.
 
 
-<div style="text-align: center;">
-  <div style="display: inline-block;">
-    <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Data | Python</span>
-  </div>
-</div>
 
 <p align="center">
-<img src="assets\img\calib.gif" width="100%" height="100%">
+<img src="assets\img\IMG4.png" width="100%" height="100%">
 </p>
 
 ## Automatización de Reportes de Análisis No Lineal
@@ -99,12 +79,6 @@ Elaboración de un reporte de análisis no lineal Pushover de un edificio de con
 <img src="assets\img\curva de capacidad.png" width="95%" height="100%">
 </p>
 
-<div style="text-align: center;">
-  <div style="display: inline-block;">
-    <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 7/08/23 | STERA 3D | Python</span>
-  </div>
-</div>
 
 <p align="center">
 <img src="assets\img\STERA 3D.gif" width="100%" height="100%">
@@ -112,8 +86,6 @@ Elaboración de un reporte de análisis no lineal Pushover de un edificio de con
 
 ## Señales Sísmicas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst?utm_source=share&utm_medium=member_desktop)
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/TSER.pdf)
 
 Tratamiento de señales sísmicas
 Respuesta Dinámica de varios grados de Libertad con Newmark. 
@@ -122,7 +94,7 @@ Comparación del comportamiento con un ensayo en realizado en mesa vibratoria
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="assets\img\mi_logo.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
-    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Luis Maldonado | Update: 2/08/23 | Data | Python</span>
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Bridge | Update: 2/08/23 | Data | Python</span>
   </div>
 </div>
 
